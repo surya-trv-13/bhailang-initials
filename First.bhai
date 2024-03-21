@@ -1,0 +1,10 @@
+hi bhai
+    bol bhai "Suryanarayan Rath";
+    bhai ye hai var1 = nalla;
+    bhai ye hai var2 = 24;
+    agar bhai(var1 != nalla) {
+        bol bhai "Nalla Mil Gaya";
+    } warna bhai {
+        bol bhai var2;
+    }
+bye bhai
